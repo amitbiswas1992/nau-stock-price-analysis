@@ -3,7 +3,8 @@ This project aims to predict the price trend of stocks. Here we are predicting p
 
 #### Dataset
 - **source**: https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
-- **setup**:
+
+#### Setup
 1. Download the dataset from source
 2. The dataset is to be uploaded in google drive as a separate folder
 3. Drive is to be mounted in colab.
